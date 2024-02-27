@@ -1,1 +1,1 @@
-print("Release 1.0")
+print("Colores 1.0")
