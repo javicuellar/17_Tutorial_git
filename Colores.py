@@ -1,0 +1,1 @@
+print("Colores 1.0")
